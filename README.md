@@ -7,6 +7,7 @@
 - [Script Editor Path UID Converter](https://github.com/airotto/Godot-Script-Editor-Path-UID-Converter)
 - [Script Signal Callback Method Generator](https://github.com/airotto/Godot-Script-Signal-Callback-Method-Generator)
 - [Converter From Preload To Load](https://github.com/airotto/Godot-Converter-From-Preload-To-Load)
+- [Editor Settings Cleaner](https://github.com/airotto/Godot-Editor-Settings-Cleaner)
 <!--
 
 -->
